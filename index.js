@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://trackdown.atr0ahmed0.repl.co";
+var hostURL="https://e-omega-tan.vercel.app/";
 //TOGGLE for Shorters
 var use1pt=false;
 
